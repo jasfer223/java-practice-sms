@@ -1,4 +1,4 @@
-package UsingArrayListAsStorage;
+package arraylist;
 public class Student implements Comparable<Student> {
 	int idNo;
 	String name;

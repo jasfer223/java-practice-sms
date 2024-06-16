@@ -1,4 +1,4 @@
-package UsingArrayListAsStorage;
+package arraylist;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.InputMismatchException;
